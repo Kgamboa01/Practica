@@ -40,10 +40,10 @@ git clone https://github.com/usuario/registro-formulario.git
 
 cd registro-formulario
 
-
+```
 ---
 
-```md
+
 ## ▶️ Uso
 
 1. Abrir el archivo `index.html`.
