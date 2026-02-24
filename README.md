@@ -61,13 +61,13 @@ Resultado:
 - ⚠️ Si existen errores → Se resaltan los campos inválidos.
 
 ## 📁 Estructura del Proyecto
-📦 registro-formulario
-┣ 📂 css
-┃ ┗ 📜 index.css
-┣ 📂 js
-┃ ┗ 📜 index.js
-┣ 📜 index.html
-┗ 📜 README.md
+- 📦 registro-formulario
+- ┣ 📂 css
+- ┃ ┗ 📜 index.css
+- ┣ 📂 js
+- ┃ ┗ 📜 index.js
+- ┣ 📜 index.html
+- ┗ 📜 README.md
 
 ## 🤝 Contribución
 
